@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+![WakaTime stats](https://gist.githubusercontent.com/liuhy00/6b8bbe5f626d41760666708c779e67ca/raw/metrics.svg)
             
