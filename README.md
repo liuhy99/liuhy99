@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+              - name: waka-box
+                uses: matchai/waka-box@v5.0.0
+            
