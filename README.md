@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-              - name: waka-box
-                uses: matchai/waka-box@v5.0.0
             
