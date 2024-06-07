@@ -134,6 +134,6 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-:pushpin: ***Just Start My AWS Path***<br>
+:seedling: ***Just Start My AWS Path***<br>
 [![Badge](images/aws-certified-cloud-practitioner.png)](https://www.credly.com)
 
