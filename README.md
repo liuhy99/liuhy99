@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 **Weekly development breakdown**
-![WakaTime stats](https://gist.githubusercontent.com/liuhy00/6b8bbe5f626d41760666708c779e67ca/raw/metrics.svg)
-            
+```python
+>>> import liuhy
+"Hi, I'm liuhy! Glad to meet you!"
+
+>>> swiftzy.interests
+['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
+
+>>> swiftzy.learning
+['Rust in Systems Programming', 'MLSys']
+>>> swiftzy.dev_devices
+["Linux WSL2", "Macbook Air M1"]
+```
+
