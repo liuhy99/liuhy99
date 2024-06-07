@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 ```python
 >>> import liuhy
-"Hi, I'm liuhy! Glad to meet you!"
+"Hi, I'm liuhy! A student passionate about coding and technology."
 
->>> swiftzy.interests
-['Swim', 'Fitness', 'Forza Horizon 5 / Metro Exodus / The Witcher 3']
+>>> interests
+['Guitar', 'Anime', 'Games']
 
->>> swiftzy.learning
-['Rust in Systems Programming', 'MLSys']
->>> swiftzy.dev_devices
-["Linux WSL2", "Macbook Air M1"]
+>>> learning
+['Python', 'Machine Learning Systems', 'PHP']
+
 ```
 
