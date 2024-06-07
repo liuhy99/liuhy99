@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 "Hi, I'm liuhy! A student passionate about coding and technology."
 
 >>> interests
-['Guitar', 'Anime', 'Games']
+['Mountaineering', 'Swimming', 'Movies', 'Games']
 
 >>> learning
 ['Python', 'Machine Learning Systems', 'PHP']
