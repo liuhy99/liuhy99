@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**:smiley: something about me**
----
+:smiley: ***something about me***
+
 ```python
 >>> import liuhy
 "Hi, I'm liuhy! A student passionate about coding and technology."
