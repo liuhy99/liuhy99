@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ['Python', 'Machine Learning Systems', 'PHP']
 
 ```
-:briefcase: ***Toolbox***
+:briefcase: ***Skills***
 <table>
   <tr>
     <td valign="middle">
