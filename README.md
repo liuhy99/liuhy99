@@ -137,6 +137,3 @@ Here are some ideas to get you started:
 :seedling: ***Just Start My AWS Path***<br>
 [![Badge](images/aws-certified-cloud-practitioner.png)](https://www.credly.com)
 
-***wakatime***
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
