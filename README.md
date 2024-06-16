@@ -1,4 +1,5 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=129BFF&center=true&vCenter=true&random=false&width=1000&height=35&lines=Hi+there!+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
 
 <!--
 **liuhy99/liuhy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 ['Python', 'Machine Learning Systems', 'PHP']
 
 ```
+
 :briefcase: ***Skills***
 <table>
   <tr>
